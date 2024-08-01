@@ -8,12 +8,14 @@ hero:
   tagline: 致力让每位玩家都能在3Wind中获得快乐
   actions:
     - theme: brand
-      text: 加入服务器
+      text: 前往服务器官网
       link: 'https://3wind.cn'
     - theme: alt
       text: 指令文档
-      link: /zhiling
-
+      link: /faq/directives
+    - theme: alt
+      text: 玩家守则
+      link: /rules
 features:
   - title: 正离互通公益服务器
     details: 欢迎来到3Wind服务器！服务器运营时间有这五年之久，

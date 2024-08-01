@@ -34,6 +34,6 @@
 - 赞助时请备注一下游戏ID和理由，赞助后请截图发送给服主入账，否则将不计入个人赞助数额
 
 - 黯穆途径
-![黯穆途径](/tupian/zanzhu2.png)
-- 逗比途径
-![逗比途径](/tupian/zanzhu1.png)
+![黯穆途径](/sponsor/zanzhu2.png)
+<!-- - 逗比途径
+![逗比途径](/sponsor/zanzhu1.png) -->
